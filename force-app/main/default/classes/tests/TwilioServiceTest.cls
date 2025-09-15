@@ -10,7 +10,7 @@ private class TwilioServiceTest {
     /**
      * Test the sendSMS method with a valid request
      * 
-     * TODO: Implement this test method to verify that sending an SMS works correctly
+     * TODO: Implement this test method to verify that sending an SMS works correctly.
      */
     @IsTest
     static void testSendSMS() {
